@@ -1,0 +1,22 @@
+body{
+    background-color: #103880;
+    margin: 0 auto;
+}
+
+h1{
+    color: #fff;
+    padding: 0;
+    text-align: center;
+}
+
+input[type="button"]
+{
+    width: 100px;
+    background-color: green;
+    color: #fff;
+    padding: 5px;
+    border-radius: 3px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
